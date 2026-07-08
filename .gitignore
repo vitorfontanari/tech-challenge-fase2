@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.pem
+.aws/
+data/
+*.csv
+*.parquet
+.DS_Store
+.vscode/
