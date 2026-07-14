@@ -1,6 +1,6 @@
 # Pipeline Híbrido para Análise da Alfabetização no Brasil
 
-Tech Challenge – Fase 2 | Pós-Tech | Engenharia de Dados
+Tech Challenge – Fase 2 | Pós-Tech | AI Scientist
 
 ## 1. Contexto do Problema
 
